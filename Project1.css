@@ -1,0 +1,60 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp3219255.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+
+#col{
+    background-color: black;
+    color: greenyellow;
+}
+
+h1{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 0.3em;
+}
+
+h2{
+    color: whitesmoke;
+    text-decoration: overline;
+    letter-spacing: 3px;
+}
+h3{
+    color:yellow;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.detail{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    font-weight: bolder;
+}
+div>p{
+    display:inline;
+    height:50px;
+    width: 100px;
+    border: 2px;
+    color: fuchsia;
+    background-color: black;
+}
+
+a[target="_blank"]{
+    text-align: center;
+}
+
+ol{
+    background-color:black;
+}
+li{
+    color: aquamarine;
+}
+
+table{
+    border: 2px solid black;
+    width:100%;
+    background-color: #ffffff;
+    color: #0ecb1c;
+}
